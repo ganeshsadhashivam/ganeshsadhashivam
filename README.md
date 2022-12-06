@@ -2,7 +2,7 @@
 <img src="https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg">
 
 <h1 align="center">Hi 👋, I'm ganesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack  developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalsolutionservices.com%2Fweb-development.html&psig=AOvVaw1bEwTBXglVJ6aMW_k50jaI&ust=1670351272649000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKipmcSN4_sCFQAAAAAdAAAAABAX.gif">
 
