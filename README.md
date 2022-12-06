@@ -29,8 +29,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  [![HTML5 and CSS3](https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/) 
+[![C](https://i.imgur.com/zINUxVf.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+  
+  [![C++](https://i.imgur.com/Ao2P8iG.png)](https://isocpp.org/)
+  
+  
+  [![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png)](https://firebase.google.com/)
+  
+  
+  
+  
+  
+  
+  
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshsadhashivam&show_icons=true&locale=en&layout=compact" alt="ganeshsadhashivam" /></p>
 
