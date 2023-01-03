@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ganesh, a Full-Stack  developer 👨‍💻  since 2020 🚀</div>  
   
 
-- i m currently working on NodeJs and ExpressJs  
+-🌱 i m currently working on Html,Css,Javascript, NodeJs and ExpressJs ,flutter 
   
 
 - 🌱 I’m currently learning DSA,NodeJS,ExpressJS,React,DynamicProgramming,C++,JAVA  
