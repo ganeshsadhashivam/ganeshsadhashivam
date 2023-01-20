@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ganesh, a Full-Stack  developer 👨‍💻  since JULY 26-2022 🚀</div>  
+### <div align="center">I'm Ganesh, a Full-Stack  developer 👨‍💻  since JULY 25-2022 🚀</div>  
   
 
 - 🌱 i m currently working on Html,Css,Javascript, NodeJs and ExpressJs ,flutter 
